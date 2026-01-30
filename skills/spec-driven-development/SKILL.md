@@ -1,3 +1,4 @@
+---
 name: spec-driven-development
 description: Master the Spec-Driven Development methodology for AI-assisted software development. Guides through the six-phase workflow from constitution to implementation.
 version: 1.0.0
